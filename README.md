@@ -1,16 +1,25 @@
-### Hi there 👋
+Empreendedor e desenvolvedor autodidata. Construo os **sistemas de gestão** dos meus próprios negócios em **.NET / Blazor**.
 
-<!--
-**fabiosilva93/fabiosilva93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — UNIP (2018)
+- 🧵 Construindo um **ERP para confecção de roupas e uniformes** (multi-tenant) e um **sistema para autopeças** já em produção
+- 🌱 Aprendendo construindo: cada sistema real é meu campo de treino
+- 🎯 Foco .NET
+- 🇧🇷 Brasil
 
-Here are some ideas to get you started:
+### 🛠️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 📊 GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=fabiosilva93&show_icons=true&hide_border=true&locale=pt-br)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva93&layout=compact&hide_border=true&locale=pt-br)
+
+### 📫 Contato
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.fsweb@gmail.com)
