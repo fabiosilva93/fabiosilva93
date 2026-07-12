@@ -15,11 +15,6 @@ Empreendedor e desenvolvedor autodidata. Construo os **sistemas de gestão** dos
 ![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 📊 GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=fabiosilva93&show_icons=true&hide_border=true&locale=pt-br)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva93&layout=compact&hide_border=true&locale=pt-br)
-
 ### 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.fsweb@gmail.com)
