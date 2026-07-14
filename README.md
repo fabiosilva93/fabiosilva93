@@ -1,7 +1,7 @@
 Empreendedor e desenvolvedor autodidata. Construo os **sistemas de gestão** dos meus próprios negócios em **.NET / Blazor**.
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — UNIP (2018)
-- 🧵 Construindo um **ERP para confecção de roupas e uniformes** (multi-tenant) e um **sistema para autopeças** já em produção
+- 🧵 Construindo um **sistema para autopeças**
 - 🌱 Aprendendo construindo: cada sistema real é meu campo de treino
 - 🎯 Foco .NET
 - 🇧🇷 Brasil
